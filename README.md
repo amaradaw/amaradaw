@@ -1,11 +1,57 @@
-# <p align="center">Hello !<br>This is Amara <br>
-## A student who is currently studying DAW <br>Here are some informations about me , and my social media</p>
+# ¡Hola! Soy Amara 👋
 
-###
+**Desarrolladora Web & Apasionada de la Tecnología**
 
-<p align="left">For now , Im working on Amara-DAW Project 🔭<br>Learning : Markdown, HTML, CSS 🌱<br>Open to collaborate on: Web Page Design & Content Editing 👯<br>Looking for guidance with: Java, JavaScript 🤝<br>Ask me about: General programming, learning to code, or DAW topics 💬<br>Reach me at: amaradaw@gmail.com or +34 654 32 33 56 📫<br>Fun fact: I'm not the biggest fan of Java 😅</p>
+Soy estudiante del grado de **Desarrollo de Aplicaciones Web**. Me enfoco en crear aplicaciones web funcionales y explorar la administración de sistemas e infraestructura.
 
-###
+---
+
+### Sobre mí
+- Actualmente trabajando en proyectos de **Desarrollo Web (Full Stack)**.
+- Aprendiendo y profundizando en **Laravel, JavaScript y automatización con Ansible**.
+- Interesada en arquitectura de redes, diseñadora de páginas web, administración de servidores y desarrollo backend y frontEnd.
+- Hablamos? Puedes encontrarme en mis redes o escribirme por correo.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Desarrollo Web & Programación**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Bases de Datos & CMS**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Diseño, Edición & Redes Sociales**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Social Media](https://img.shields.io/badge/Redes_Sociales-E1306C?style=for-the-badge&logo=instagram&logoColor=white)
+
+**Entornos & DevOps**
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=amaradaw&show_icons=true&theme=radial&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=amaradaw&layout=compact&theme=radial&hide_border=true)
+
+---
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
