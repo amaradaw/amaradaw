@@ -1,8 +1,21 @@
-# ¡Hola! Soy Amara 👋
+<div align="center">
 
-**Desarrolladora Web & Apasionada de la Tecnología**
+  <img src="https://github.com/amaradaw/amaradaw/blob/main/1.png?raw=true" alt="Banner de Amara" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 25px;">
 
-Soy estudiante del grado de **Desarrollo de Aplicaciones Web**. Me enfoco en crear aplicaciones web funcionales y explorar la administración de sistemas e infraestructura.
+  <h1>¡Hola! Soy Amara 👋</h1>
+  
+  <h3>Desarrolladora Web & Apasionada de la Tecnología</h3>
+  <br>
+
+  <p align="center" style="max-width: 680px; font-size: 16px; color: #8b949e; line-height: 1.6;">
+    Soy estudiante del grado de Desarrollo de Aplicaciones Web. Me enfoco en crear aplicaciones web funcionales y explorar la administración de sistemas e infraestructura.
+  </p>
+
+</div>
+
+<br>
+<hr>
+<br>
 
 ---
 
