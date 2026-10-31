@@ -18,7 +18,6 @@
 
 <br>
 <hr>
-<br>
 
 ### About me
 - Currently working on Full Stack Web Development projects.
