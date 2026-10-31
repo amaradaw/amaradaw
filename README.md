@@ -2,9 +2,8 @@
 
 <h1>¡Hola! Soy Amara 👋</h1>
 
-  <img src="[https://github.com/amaradaw/amaradaw/blob/main/1.png?raw=true](https://github.com/amaradaw/amaradaw/blob/main/Banner.png?raw=true)" alt="Banner de Amara" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 25px;">
+  <img src="https://github.com/amaradaw/amaradaw/blob/main/Banner.png?raw=true" alt="Banner de Amara" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 25px;">
 
-  <h1>¡Hola! Soy Amara 👋</h1>
   
   <h3>Desarrolladora Web & Apasionada de la Tecnología</h3>
   <br>
