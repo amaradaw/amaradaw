@@ -1,16 +1,18 @@
 <div align="center">
 
-<h1>¡Hola! Soy Amara 👋</h1>
+<h1> Hello! it's Amara 👋</h1>
 
   <img src="https://github.com/amaradaw/amaradaw/blob/main/Banner.png?raw=true" alt="Banner de Amara" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 6px; margin-bottom: 25px;">
 
   
-  <h3>Desarrolladora Web & Apasionada de la Tecnología</h3>
+  <h3>Web Developer & Designer</h3>
   <br>
 
-  <p align="center" style="max-width: 680px; font-size: 16px; color: #8b949e; line-height: 1.6;">
-    Soy estudiante del grado de Desarrollo de Aplicaciones Web. Me enfoco en crear aplicaciones web funcionales y explorar la administración de sistemas e infraestructura.
-  </p>
+<p align="center" style="max-width: 720px; font-size: 16px; color: #8b949e; line-height: 1.6;">
+  I am a student pursuing a degree in <strong>Web Application Development (DAW)</strong>. My passion lies at the intersection of coding and design creativity; I love bringing ideas to life through both programming and visual design.
+  <br><br>
+  Currently, my focus is on building websites that are not only fully functional, robust, and efficient on the inside, but also intuitive and visually appealing on the outside. Additionally, I enjoy expanding my technical horizons by exploring systems administration, server management, and infrastructure.
+</p>
 
 </div>
 
@@ -18,17 +20,14 @@
 <hr>
 <br>
 
----
-
-### Sobre mí
-- Actualmente trabajando en proyectos de **Desarrollo Web (Full Stack)**.
-- Aprendiendo y profundizando en **Laravel, JavaScript y automatización con Ansible**.
-- Interesada en arquitectura de redes, diseñadora de páginas web, administración de servidores y desarrollo backend y frontEnd.
-- Hablamos? Puedes encontrarme en mis redes o escribirme por correo.
+### About me
+- Currently working on Full Stack Web Development projects.
+- Learning and diving deeper into Laravel, JavaScript, automation with Ansible, and responsive web design.
+- Interested in network architecture, server administration, Backend, and Frontend development.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 **Desarrollo Web & Programación**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,25 +54,24 @@
 
 ---
 
-### 📊 Mis Estadísticas
+## 📊 Profile Statistics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=amaradaw&show_icons=true&theme=radial&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaradaw&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=amaradaw&layout=compact&theme=radial&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaradaw&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
 
 ---
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amara-el-issmail-0940a1439?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaraissmail@gmail.com)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
